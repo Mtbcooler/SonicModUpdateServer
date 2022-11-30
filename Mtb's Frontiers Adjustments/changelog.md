@@ -1,3 +1,20 @@
+##Version 0.7.0
+
+IMPORTANT: Some of the more controversial changes are now in the code file. This is done on purpose to allow any users who don't want these changes to easily turn them off without me having to maintain several versions of the mod.
+
+Code File:
+-Infinite Boost + Hide Boost Meter. (Mod will be balanced around this but this way you can easily remove the two codes from this file and play with the finite boost)
+-Disable Power Boost (For Prelimenary  Combat Update support. Tends to make the speed upgrade worthless)
+-Infinite Quick Cyloop Gauge (Flows better. may be removed if too op)
+
+Open Zone:
+-Decreased Homing Attack Delay to match cyberspace
+-Reverted Infinite Boost changes to instead use a code file
+-Adjusted Max GravityAccel/Decel so that Sonic feels a little more weighty
+-Made Drop Dash Controllable
+-Set parry time to 0.8 (To be re-evaluated when combat is focused on.)
+-Increased Bounce Jump Height (Doesn't work on all surfaces. Not sure how to fix this)
+
 ## Version 0.6.0
 I'm looking into making a toggle for just Cyberspace physics. Expect that soon.
 
