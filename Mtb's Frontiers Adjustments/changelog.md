@@ -1,4 +1,4 @@
-##Version 0.7.0
+## Version 0.7.0
 
 IMPORTANT: Some of the more controversial changes are now in the code file. This is done on purpose to allow any users who don't want these changes to easily turn them off without me having to maintain several versions of the mod.
 
